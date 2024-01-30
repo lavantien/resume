@@ -2,5 +2,6 @@
 
 ## Using
 
-- Open `ODT` file in `LibreOffice` or `Google Docs` for editing
 - `PDF` files are in the `releases` directory
+- For ATS compliance template, use: <https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn>
+
